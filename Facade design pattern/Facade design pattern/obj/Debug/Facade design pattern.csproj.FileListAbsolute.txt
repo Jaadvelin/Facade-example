@@ -1,0 +1,7 @@
+C:\Users\ivan_\Documents\Escuela\5AgoDic2019\Modelos y sistemas de software\Facade design pattern\Facade design pattern\bin\Debug\Facade design pattern.exe.config
+C:\Users\ivan_\Documents\Escuela\5AgoDic2019\Modelos y sistemas de software\Facade design pattern\Facade design pattern\bin\Debug\Facade design pattern.exe
+C:\Users\ivan_\Documents\Escuela\5AgoDic2019\Modelos y sistemas de software\Facade design pattern\Facade design pattern\bin\Debug\Facade design pattern.pdb
+C:\Users\ivan_\Documents\Escuela\5AgoDic2019\Modelos y sistemas de software\Facade design pattern\Facade design pattern\obj\Debug\Facade design pattern.csprojAssemblyReference.cache
+C:\Users\ivan_\Documents\Escuela\5AgoDic2019\Modelos y sistemas de software\Facade design pattern\Facade design pattern\obj\Debug\Facade design pattern.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\Documents\Escuela\5AgoDic2019\Modelos y sistemas de software\Facade design pattern\Facade design pattern\obj\Debug\Facade design pattern.exe
+C:\Users\ivan_\Documents\Escuela\5AgoDic2019\Modelos y sistemas de software\Facade design pattern\Facade design pattern\obj\Debug\Facade design pattern.pdb
